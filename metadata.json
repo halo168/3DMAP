@@ -1,0 +1,6 @@
+{
+  "name": "台灣 3D 旅遊導覽與觀光集章冊",
+  "description": "沉浸式 3D 台灣地理互動導覽、五大特色低多邊形地標、100 處觀光熱點沈浸式蓋章與探索者護照。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
